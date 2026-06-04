@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+
+# Environment files
+.env
+.env.local
+
+# Next.js
+node_modules/
+.next/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker volumes/data
+mysql_data/
+redis_data/
+
+# Alembic cache
+alembic/__pycache__/

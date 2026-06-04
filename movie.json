@@ -1,0 +1,9 @@
+{
+  "title": "Interstellar",
+  "description": "Sci-fi epic",
+  "duration_minutes": 169,
+  "genre": "Science Fiction",
+  "language": "English",
+  "poster_url": "https://example.com/poster.jpg",
+  "is_active": true
+}
